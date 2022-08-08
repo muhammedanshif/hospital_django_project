@@ -1,0 +1,10 @@
+li:hover{
+    background-color:thistle;
+    border-radius: 50px;
+    
+}
+
+
+.about{
+    background-image: url("paper.gif")
+}
